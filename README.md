@@ -18,4 +18,4 @@
 </div>
 <br>
 
-![min-minnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=min-minnn&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=min-minnn&layout=compact)
+![min-minnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=min-minnn&show_icons=true&theme=github_dark_dimmed) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=min-minnn&layout=compact)

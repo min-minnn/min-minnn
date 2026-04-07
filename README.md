@@ -1,15 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=30&duration=3500&pause=3&color=6994CDEE&center=true&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=+Kim+MinJi+❄️)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=Kim%20Minji%20❄️&fontSize=30&fontColor=ffffff&fontAlign=50&fontAlignY=38&height=200&descAlign=50&descAlignY=60)
 
----
-
-## 👋 About Me
+## ☁️ About Me
 
 - 요구사항을 기반으로 **사용자 경험을 고려한 안정적인 서비스 개발**을 지향합니다.
 - 문제의 원인을 분석하고 **구조적으로 해결하는 과정**을 중요하게 생각합니다.
 - 새로운 기술을 즐기며, 이를 **기록으로 남기고 협업을 통해 함께 성장하는 개발자**입니다.
 
----
+<br />
 
 ## 🖥️ Frontend
 
@@ -29,6 +26,7 @@
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
 
+<br />
 
 ## 📚 Language
 
@@ -37,6 +35,8 @@
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white" />&nbsp
 </div>
+
+<br />
 
 ## 🛠 Tools
 
@@ -54,7 +54,8 @@
   <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=FFFFFF" />
 </div>
 
---------
+<br /><br />
+
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 30px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=min-minnn&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" height="150" />

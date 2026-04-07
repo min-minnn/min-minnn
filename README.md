@@ -1,52 +1,53 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=+minji's+GitHub!+❄️)](https://git.io/typing-svg)
------------
-<h3 align="center">🖥️ Frontend 🖥️</h3>
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=30&duration=3500&pause=3&color=6994CDEE&center=true&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=+Kim+Minji+❄️)](https://git.io/typing-svg)
+
+---
+
+## 👋 About Me
+
+- 요구사항을 기반으로 **사용자 경험을 고려한 안정적인 서비스 개발**을 지향합니다.
+- 문제의 원인을 분석하고 **구조적으로 해결하는 과정**을 중요하게 생각합니다.
+- 새로운 기술을 즐기며, 이를 **기록으로 남기고 협업을 통해 함께 성장하는 개발자**입니다.
+
+---
+
+## 🖥️ Frontend
+
+<div align="left">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />&nbsp
-</div>
-
-<div align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </div>
 
-<div align="center">
+<div align="left">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
   <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/pandaCSS-F7DF1E?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/pandaCSS-F7DF1E?style=for-the-badge&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
 
-<br/>
 
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
+## 📚 Language
+
+<div>
   <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white" />&nbsp
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=Apple&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=Swift&logoColor=white">
-</div>
+## 🛠 Tools
 
-<br />
-
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
